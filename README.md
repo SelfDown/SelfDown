@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SelfDown
-- 👀 I’m interested in python ,java,vue
+- 👀 I’m interested in python,golang,java,vue,react
 - 🌱 I’m currently learning vue
 - 💞️ I’m looking to collaborate on vue
 - 📫 How to reach me ...
